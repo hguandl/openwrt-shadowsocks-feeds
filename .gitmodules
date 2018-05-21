@@ -1,0 +1,21 @@
+[submodule "openwrt-feeds"]
+	path = openwrt-feeds
+	url = https://github.com/shadowsocks/openwrt-feeds.git
+[submodule "openwrt-shadowsocks"]
+	path = openwrt-shadowsocks
+	url = https://github.com/shadowsocks/openwrt-shadowsocks.git
+[submodule "openwrt-simple-obfs"]
+	path = openwrt-simple-obfs
+	url = https://github.com/aa65535/openwrt-simple-obfs.git
+[submodule "openwrt-chinadns"]
+	path = openwrt-chinadns
+	url = https://github.com/aa65535/openwrt-chinadns.git
+[submodule "openwrt-dist-luci"]
+	path = openwrt-dist-luci
+	url = https://github.com/aa65535/openwrt-dist-luci.git
+[submodule "openwrt-dns-forwarder"]
+	path = openwrt-dns-forwarder
+	url = https://github.com/aa65535/openwrt-dns-forwarder.git
+[submodule "luci-app-shadowsocks"]
+	path = luci-app-shadowsocks
+	url = https://github.com/shadowsocks/luci-app-shadowsocks.git
